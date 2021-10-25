@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Micrurious</string>
+    <string name="authorization__sign_in">sign in</string>
+    <string name="authorization__email">Email</string>
+    <string name="authorization__password">Password</string>
+    <string name="authorization__logo">Logo</string>
+</resources>
