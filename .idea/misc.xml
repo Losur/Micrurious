@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/yaroslav/AndroidStudioProjects/Laba1/Micrurious/app/src/main/res/layout/books_list_item.xml" value="0.67" />
+        <entry key="..\:/Users/yaroslav/AndroidStudioProjects/Laba1/Micrurious/app/src/main/res/layout/fragment_books_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/yaroslav/AndroidStudioProjects/Laba1/Micrurious/app/src/main/res/layout/layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/yaroslav/AndroidStudioProjects/Laba1/Micrurious/app/src/main/res/layout/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/yaroslav/AndroidStudioProjects/Laba1/Micrurious/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/yaroslav/AndroidStudioProjects/Laba1/app/src/main/res/layout/activity_main.xml" value="0.21875" />
         <entry key="..\:/Users/yaroslav/AndroidStudioProjects/Laba1/app/src/main/res/layout/frame_layout_example.xml" value="0.2328125" />
         <entry key="..\:/Users/yaroslav/AndroidStudioProjects/Laba1/app/src/main/res/layout/grid_layout_example.xml" value="0.2328125" />

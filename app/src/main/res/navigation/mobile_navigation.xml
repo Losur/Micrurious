@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_books_list">
+
+    <fragment
+        android:id="@+id/navigation_books_list"
+        android:name="com.example.laba_1.activity.ui.books_list.BooksListFragment"
+        android:label="@string/title_books_list"
+        tools:layout="@layout/fragment_books_list" />
+
+    <fragment
+        android:id="@+id/navigation_selected_book"
+        android:name="com.example.laba_1.activity.ui.selected_book.SelectedBookFragment"
+        android:label="@string/title_selected_book"
+        tools:layout="@layout/fragment_selected_book" />
+</navigation>

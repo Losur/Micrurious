@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="authors">
+
+        <item>Jon_1</item>
+        <item>Book_1</item>
+
+        <item>Jon_2</item>
+        <item>Book_2</item>
+
+        <item>Jon_3</item>
+        <item>Book_3</item>
+
+        <item>Jon_4</item>
+        <item>Book_4</item>
+
+        <item>Jon_5</item>
+        <item>Book_5</item>
+
+        <item>Jon_6</item>
+        <item>Book_6</item>
+
+        <item>Jon_7</item>
+        <item>Book_7</item>
+
+        <item>Jon_8</item>
+        <item>Book_8</item>
+
+        <item>Jon_9</item>
+        <item>Book_9</item>
+
+        <item>Jon_10</item>
+        <item>Book_10</item>
+
+        <item>Jon_11</item>
+        <item>Book_11</item>
+
+        <item>Jon_12</item>
+        <item>Book_12</item>
+
+        <item>Jon_13</item>
+        <item>Book_13</item>
+
+        <item>Jon_14</item>
+        <item>Book_14</item>
+
+        <item>Jon_15</item>
+        <item>Book_15</item>
+
+        <item>Jon_16</item>
+        <item>Book_16</item>
+
+        <item>Jon_17</item>
+        <item>Book_17</item>
+
+        <item>Jon_18</item>
+        <item>Book_18</item>
+
+        <item>Jon_19</item>
+        <item>Book_19</item>
+
+        <item>Jon_20</item>
+        <item>Book_20</item>
+
+        <item>Jon_21</item>
+        <item>Book_21</item>
+
+        <item>Jon_22</item>
+        <item>Book_22</item>
+
+        <item>Jon_23</item>
+        <item>Book_23</item>
+
+        <item>Jon_24</item>
+        <item>Book_24</item>
+
+        <item>Jon_25</item>
+        <item>Book_25</item>
+
+
+
+    </array>
+</resources>
