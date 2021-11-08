@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AuthorizationRepository implements IAuthorizationRepository {
-    private static String apiUrl= "https://whatsnew.7pace.com/api/authorization/get-user-state";
+    private static String apiUrl= "";
     private final List<User> users = new ArrayList<User>(){
         {
             add(new User(){
