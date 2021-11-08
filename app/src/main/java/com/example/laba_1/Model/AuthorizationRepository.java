@@ -25,6 +25,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class AuthorizationRepository implements IAuthorizationRepository {
+    private static String apiUrl= "";
 
     private final List<User> users = new ArrayList<User>(){
         {
