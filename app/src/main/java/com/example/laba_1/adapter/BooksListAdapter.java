@@ -36,7 +36,7 @@ public class BooksListAdapter extends
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
         Book book = books.get(position);
         holder.author.setText(book.Author);
-        holder.bookTitle.setText(book.BookTitle);
+        holder.bookTitle.setText(book.Name);
     }
 
     @Override

@@ -25,7 +25,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class AuthorizationRepository implements IAuthorizationRepository {
-    private static String apiUrl= "";
+    private static String apiUrl= "https://raw.githubusercontent.com";
 
     private final List<User> users = new ArrayList<User>(){
         {
@@ -62,8 +62,7 @@ public class AuthorizationRepository implements IAuthorizationRepository {
                 break;
             }
         }
-        ApiRequestController controller = new ApiRequestController();
-        controller.start();
+
         return user;
     }
 }
